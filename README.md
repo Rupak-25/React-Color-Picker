@@ -1,5 +1,8 @@
 # React-Color-Picker
 
+![Screenshot 2024-12-03 155430](https://github.com/user-attachments/assets/c844ea37-05d6-4f2b-98af-f38fde2ddcaa)
+
+
 This project is a simple yet powerful color picker application built using React. It allows users to select and customize colors seamlessly through an intuitive user interface. The app demonstrates key concepts of React development, including state management, component structure, and event handling.
 
 Features :-<br/>
