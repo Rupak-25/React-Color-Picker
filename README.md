@@ -18,7 +18,8 @@ This project is a simple yet powerful color picker application built using React
 Ready to embark on your colorful journey? Follow these simple steps:<br/>
 <h3><b>In terminal :</b></h3>
 git clone https://github.com/Rupak-25/React-Color-Picker.git<br/>
-cd react-color-picker-app<br/>
+cd React-Color-Picker<br/>
+cd reactcolorpickerapp<br/>
 npm install<br/>
 
 <h1>🎮 Usage :</h1> 
